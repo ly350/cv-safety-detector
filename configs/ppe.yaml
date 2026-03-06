@@ -1,1 +1,10 @@
+# configs/ppe.yaml
+path: /absolute/path/to/your/ppe_dataset
+train: images/train
+val: images/val
 
+names:
+  0: person
+  1: helmet
+  2: vest
+  3: vehicle
